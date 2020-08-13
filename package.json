@@ -11,7 +11,8 @@
     "lazysizes": "^5.2.2",
     "normalize.css": "^8.0.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "serialize-javascript": "^4.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.10.3",
@@ -33,7 +34,7 @@
     "postcss-nested": "^4.2.1",
     "postcss-simple-vars": "^5.0.2",
     "style-loader": "^1.2.1",
-    "webpack": "^4.43.0",
+    "webpack": "^4.44.1",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.11.0"
   }
